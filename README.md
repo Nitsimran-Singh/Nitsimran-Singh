@@ -1,4 +1,5 @@
-### Hi there 👋  welcome to my Github! I like to write in Python and like to explore latest tech🐍 ☁️
+<h3 align="center">
+ Hi there 👋  welcome to my Github! I like to write in Python and like to explore latest tech🐍☁️</h3>
 <p align="center">
   <img width="250" src="image.png">
 </p>
@@ -19,10 +20,13 @@
 <img   alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 <img   alt="MySQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img  alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<p> <!-- GitHub README Stats -->
-  <a href="https://gitstats.me/Nitsimran-Singh">
-      <img width="460" height="auto" align="middle"  alt="Nitsimran's github stats" 
-           src="https://github-readme-stats.vercel.app/api?username=Nitsimran-Singh&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" />
+<p align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=Nitsimran-Singh&hide=stars&show_icons=true&theme=algolia&line_height=32">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitsimran-Singh&count_private=true&theme=algolia">
+
+</p>
+
 <p align="center">  
 Check out my repos ⬇️  
 <!--
